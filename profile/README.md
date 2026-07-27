@@ -19,15 +19,15 @@ Building Scalable Software • Exploring AI • Diving Into Transformers And LLM
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,html,css" />
 </p>
 
 ---
 
-### Frameworks & Libraries
+### Frameworks, Libraries & Runtime
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,express,nestjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nestjs,vite,tailwind" />
 </p>
 
 ---
@@ -35,7 +35,7 @@ Building Scalable Software • Exploring AI • Diving Into Transformers And LLM
 ### Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ---
@@ -43,15 +43,15 @@ Building Scalable Software • Exploring AI • Diving Into Transformers And LLM
 ### Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
 
-<img width="12"/>
+  <img width="12"/>
 
-<img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48" alt="Google Colab"/>
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48" alt="Google Colab"/>
 
-<img width="12"/>
+  <img width="12"/>
 
-<img src="https://cdn.simpleicons.org/render/46E3B7" height="48" alt="Render"/>
+  <img src="https://cdn.simpleicons.org/render/46E3B7" height="48" alt="Render"/>
 </p>
 
 ---
