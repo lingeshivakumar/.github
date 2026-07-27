@@ -70,14 +70,6 @@
 
 ---
 
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lingeshivakumar&style=for-the-badge&color=0e75b6"/>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 > **Requires a GitHub Action to generate automatically.**  
