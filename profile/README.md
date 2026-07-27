@@ -69,4 +69,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lingeshivakumar/lingeshivakumar/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
+<img src="https://leetcard.jacoblin.cool/lingesh67?theme=dark&font=Karma"/>
+
 ###
