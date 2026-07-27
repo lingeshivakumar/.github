@@ -1,74 +1,88 @@
-<h1 data-importer="text" align="center">Lingesh Shivakumar</h1>
+<h1 align="center">Hi 👋, I'm Lingesh Shivakumar</h1>
+<h3 align="center">Information Technology Student | Full-Stack Developer | Machine Learning Enthusiast</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Full-Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo" />
-  <img width="12" />
+---
 
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
-  <img width="12" />
+## 🚀 Tech Stack
 
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
-  <img width="12" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,tailwind,javascript,typescript,react,express,nestjs,mysql,mongodb" />
+</p>
 
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />
-  <img width="12" />
+---
 
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo" />
-  <img width="12" />
+## 🌐 Connect With Me
 
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind css logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="sql logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
-</div>
-
-###
-
-<div data-importer="socials" align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/lingeshwar-shivakumar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://twitter.com/lingeshivakumar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-</div>
+</p>
 
-###
+---
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=lingeshivakumar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/lingeshivakumar/lingeshivakumar/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+## 📊 GitHub Statistics
 
-###
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lingeshivakumar&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingeshivakumar&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lingeshivakumar/lingeshivakumar/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lingeshivakumar/lingeshivakumar/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lingeshivakumar/lingeshivakumar/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+---
 
-<img src="https://leetcard.jacoblin.cool/lingesh67?theme=dark&font=Karma"/>
+## 🔥 GitHub Streak
 
-###
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lingeshivakumar&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lingeshivakumar&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lingeshivakumar&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 💻 LeetCode
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/lingesh67?theme=dark&font=Karma&ext=contest"/>
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lingeshivakumar&style=for-the-badge&color=0e75b6"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+> **Requires a GitHub Action to generate automatically.**  
+> Once configured, add:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lingeshivakumar/lingeshivakumar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
