@@ -20,16 +20,16 @@ Building scalable software • Exploring AI • Always learning
 Name      : Lingesh Shivakumar
 Education : B.Tech Information Technology
 Interests : Full Stack Development
-            Machine Learning
+            Machine Learning And Artificial Intelligence
             Backend Engineering
 
 Currently Learning
     • Data Structures & Algorithms
     • Advanced Backend Development
     • Deep Learning
-
-Goal
-    Build impactful software that solves real-world problems.
+    • Natural Language Processing
+    • Transformers
+    • Large Language Models
 ```
 
 ---
@@ -104,21 +104,12 @@ Goal
 
 | Project | Description |
 |---------|-------------|
-| 🔐 Anti-Internet Chat | An Offline-First Chat App | Currently In Phase 1 (Web-Based Chat App) |
+| 🔐 Anti-Internet Chat | An Offline-First Chat App; Currently In Phase 1 (Web-Based Chat App) |
 | ⚖️ BrightSmile | A MERNstack Application |
 | 📚 Bookd | Full-stack event management application |
 
 ---
 
-# 🧠 LeetCode
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains+Mono&ext=contest"/>
-
-</p>
-
----
 
 # 🐍 Contribution Snake
 
