@@ -2,7 +2,7 @@
 <h3 align="center">Information Technology Student | Full-Stack Developer | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Full-Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Full-Stack+Developer;Machine+Learning+/+A.I.+/Enthusiast;" alt="Typing SVG" />
 </p>
 
 ---
@@ -53,28 +53,3 @@
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lingeshivakumar&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 💻 LeetCode
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/lingesh67?theme=dark&font=Karma&ext=contest"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-> **Requires a GitHub Action to generate automatically.**  
-> Once configured, add:
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lingeshivakumar/lingeshivakumar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
