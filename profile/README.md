@@ -42,16 +42,36 @@ Building Scalable Software • Exploring AI • Diving Into Transformers And LLM
 <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,html,css" />
 </p>
 
+---
+
 ### Frameworks & Libraries
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,express,nest,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,express,nestjs,tailwind" />
 </p>
+
+---
 
 ### Databases
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+---
+
+### Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+
+<img width="12"/>
+
+<img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48" alt="Google Colab"/>
+
+<img width="12"/>
+
+<img src="https://cdn.simpleicons.org/render/46E3B7" height="48" alt="Render"/>
 </p>
 
 ---
