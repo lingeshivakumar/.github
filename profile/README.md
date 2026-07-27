@@ -80,18 +80,6 @@ Goal
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lingeshivakumar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingeshivakumar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -112,22 +100,12 @@ Goal
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lingeshivakumar&theme=tokyonight&row=1&column=4&margin-w=20&margin-h=20&no-frame=true"/>
-
-</p>
-
----
-
 # 💻 Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| 🔐 Adaptive Risk-Based Continuous Authentication | Behavioral biometrics + risk-aware authentication |
-| ⚖️ Legal GraphRAG | Knowledge Graph + LLM powered legal assistant |
+| 🔐 Anti-Internet Chat | An Offline-First Chat App | Currently In Phase 1 (Web-Based Chat App) |
+| ⚖️ BrightSmile | A MERNstack Application |
 | 📚 Bookd | Full-stack event management application |
 
 ---
@@ -147,16 +125,6 @@ Goal
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/lingeshivakumar/lingeshivakumar/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=lingeshivakumar&style=flat-square&color=7AA2F7"/>
 
 </p>
 
