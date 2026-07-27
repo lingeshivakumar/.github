@@ -56,6 +56,16 @@ Building Scalable Software • Exploring AI • Diving Into Transformers And LLM
 
 ---
 
+# 💻 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🔐 Anti-Internet Chat | An Offline-First Chat App; Currently In Phase 1 (Web-Based Chat App) |
+| ⚖️ BrightSmile | A MERNstack Application |
+| 📚 Bookd | Full-stack event management application |
+
+---
+
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -73,16 +83,6 @@ Building Scalable Software • Exploring AI • Diving Into Transformers And LLM
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lingeshivakumar&theme=tokyo-night&hide_border=true"/>
 
 </p>
-
----
-
-# 💻 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🔐 Anti-Internet Chat | An Offline-First Chat App; Currently In Phase 1 (Web-Based Chat App) |
-| ⚖️ BrightSmile | A MERNstack Application |
-| 📚 Bookd | Full-stack event management application |
 
 ---
 
