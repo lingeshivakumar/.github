@@ -5,32 +5,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,25,30&text=Lingesh%20Shivakumar&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Information%20Technology%20Student%20•%20Full-Stack%20Developer%20•%20Machine%20Learning%20Enthusiast&descAlignY=60&animation=fadeIn"/>
 
 <h3 align="center">
-Building scalable software • Exploring AI • Always learning
+Building Scalable Software • Exploring AI • Diving Into Transformers And LLMs
 </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=1200&center=true&vCenter=true&width=700&color=7AA2F7&lines=Information+Technology+Student;Full-Stack+Developer;Machine+Learning+/+A.I.+Enthusiast;Backend+Developer;" />
 </p>
-
----
-
-# 👨🏻‍💻 About Me
-
-```yaml
-Name      : Lingesh Shivakumar
-Education : B.Tech Information Technology
-Interests : Full Stack Development
-            Machine Learning And Artificial Intelligence
-            Backend Engineering
-
-Currently Learning
-    • Data Structures & Algorithms
-    • Advanced Backend Development
-    • Deep Learning
-    • Natural Language Processing
-    • Transformers
-    • Large Language Models
-```
 
 ---
 
