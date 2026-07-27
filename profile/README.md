@@ -14,26 +14,6 @@ Building Scalable Software • Exploring AI • Diving Into Transformers And LLM
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/lingeshwar-shivakumar/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/lingeshivakumar">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
-</a>
-
-<a href="mailto:lingesh221204@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
 # 🚀 Tech Stack
 
 ### Languages
@@ -106,12 +86,21 @@ Building Scalable Software • Exploring AI • Diving Into Transformers And LLM
 
 ---
 
-
-# 🐍 Contribution Snake
+# 🌐 Connect With Me
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/lingeshivakumar/lingeshivakumar/output/github-contribution-grid-snake-dark.svg"/>
+<a href="https://www.linkedin.com/in/lingeshwar-shivakumar/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/lingeshivakumar">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="mailto:lingesh221204@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
 
