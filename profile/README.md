@@ -2,7 +2,7 @@
 <!--                    CAPSULE HEADER                      -->
 <!-- ===================================================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,25,30&text=Lingesh%20Shivakumar&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Information%20Technology%20Student%20•%20Full-Stack%20Developer%20•%20Machine%20Learning%20Enthusiast&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,25,30&text=Lingesh%20Shivakumar&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Information%20Technology%20Student%20•%20Full-Stack%20Developer%20•%20A.I.%20Enthusiast&descAlignY=60&animation=fadeIn"/>
 
 <h3 align="center">
 Building Scalable Software • Exploring AI • Diving Into Transformers And LLMs
