@@ -60,8 +60,9 @@ Building Scalable Software • Exploring AI • Diving Into Transformers And LLM
 
 | Project | Description |
 |---------|-------------|
+| 🤖 AI Image Detector | Deep learning web application using ResNet18 to classify images as **AI-generated** or **Real** |
 | 🔐 Anti-Internet Chat | An Offline-First Chat App; Currently In Phase 1 (Web-Based Chat App) |
-| ⚖️ BrightSmile | A MERNstack Application |
+| ⚖️ BrightSmile | A MERN Stack application |
 | 📚 Bookd | Full-stack event management application |
 
 ---
